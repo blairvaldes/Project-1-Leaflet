@@ -1,8 +1,4 @@
-      html,
-      body,
-      #viewDiv {
-        padding: 10;
-        margin: 10;
-        height: 500px;
-        width: 500px;
-      }
+#map { 
+  height: 600px;
+  width: 600px
+}
